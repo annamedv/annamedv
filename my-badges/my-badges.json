@@ -1,0 +1,30 @@
+[
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/annamedv/annamedv/commit/76358565fedf190ab9c61aa2af580a26c88eda54\">7635856</a>\n- <a href=\"https://github.com/annamedv/annamedv/commit/de35010e0e70c24cf9156adcf34d003b2cb04144\">de35010</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/pr-collaboration/evening-commits.png?raw=true"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/pr-collaboration/github-anniversary-5.png?raw=true"
+  },
+  {
+    "id": "my-badges-contributor",
+    "tier": 0,
+    "desc": "I contributed to <https://github.com/my-badges/my-badges>!",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/my-badges/my-badges/pull/11\">#11</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/pr-collaboration/my-badges-contributor.png?raw=true"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/pr-collaboration/covid-19.png?raw=true"
+  }
+]
